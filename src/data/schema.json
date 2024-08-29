@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "pageName": "page 1",
+      "pageData": [
+        {
+          "type": "grid",
+          "style": {},
+          "cols": [
+            {
+              "colspan": 12,
+              "style": {},
+              "colData": [
+                {
+                  "brikId": "@apf/testimonial-card",
+                  "brikName": "",
+                  "editorId": "9cc95eb46836fb65a736ff247d488f378d0b1554febf49fffc05c85d1c199278",
+                  "version": "1.0.0",
+                  "editable": true,
+                  "style": {
+                    "font": {
+                      "family": "",
+                      "size": "",
+                      "style": "",
+                      "color": "",
+                      "weight": ""
+                    },
+                    "backgroundColor": "",
+                    "color": ""
+                  },
+                  "data": [
+                    {
+                      "content": {
+                        "value": "",
+                        "label": "",
+                        "type": "Maintext",
+                        "for": "",
+                        "link": ""
+                      },
+                      "style": {
+                        "font": {
+                          "family": "",
+                          "size": "",
+                          "style": "",
+                          "color": "",
+                          "weight": ""
+                        },
+                        "backgroundColor": ""
+                      },
+                      "editable": true,
+                      "display": "block"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
